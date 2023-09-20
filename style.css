@@ -1,0 +1,58 @@
+.barra-navegacion {
+    /*Ajusta el color de fondo*/
+    background-color: #000000;
+    /* Ajusta la altura como desees */
+    height: 60px;
+    /* Ajusta lo anchura como desees */
+    color: #ffffff;
+    text-align: left;
+
+}
+
+/* .rdr-div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+} */
+
+
+.estilo-fuente {
+    font-family: Cambria, sans-serif;
+    font-size: 40px;
+}
+
+
+.content {
+    /*Ajusta el color de fondo*/
+    background-color: #000000;
+    /* Ajusta la altura como desees */
+    height: 60px;
+    /* Ajusta lo anchura como desees */
+    color: #ffffff;
+    text-align: left;
+
+}
+
+.content img {
+    height: auto;
+    width: 55px;
+    margin-left: 10%;
+    margin-bottom: auto;
+    text-align: left;
+}
+
+.estilo-fuente-reseña {
+    font-family: Cambria, sans-serif;
+    font-size: 20px;
+}
+
+.estilo-fuente-personaje-titulo {
+    font-family: Cambria, sans-serif;
+    font-size: 40px;
+}
+
+.estilo-fuente-personajes {
+    font-family: Cambria, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+}
